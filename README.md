@@ -268,7 +268,7 @@ Jean-Michel Basquiat! The `return` keyword will disrupt the execution of your
 function, and prevent Python from running any lines of code after the `return`
 keyword.
 
-***
+*** 
 
 ## `pass`
 
